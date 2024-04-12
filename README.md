@@ -5,9 +5,8 @@ DSAI FCSH Group 5
 This is a Mini-Project for SC1015 (DSAI) which focuses on cancer cells. For detailed walkthrough, please view the source code in order.
 1. Data Extraction
 2. Data Visualisation
-3. Data Splitting
-4. Classification
-5. Random Forest Tree
+3. Data Splitting/Classification
+4. Random Forest Tree
 
 ## Problem Definition
 * Are we able to predict whether the characteristic of a cancer cell will be able to predict a malignant or benign tumor?
