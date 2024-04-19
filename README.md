@@ -13,15 +13,22 @@ This is a Mini-Project for SC1015 (DSAI) which focuses on cancer cells. For deta
 * Which model would be best to predict it?
 
 ## Models Used
+* Classification
+* Random Forest
 
 ## Conclusion
+* Concavity, area and concave points are good variables to predict whether a tumour is Benign or Malignant.
+* Our findings underscore the importance of ongoing research and collaboration in leveraging data-driven approaches to combat this complex and multifaceted disease.
 
 ## What did we learn from this project
+* Teamwork makes the dream work
+* The use of Random Forest Classifier
+* Collaborating on Github
 
 ## Contributors
-* Aanya - 
-* Adam - 
-* @lyxm58290 -
+* @aanya - Aanya
+* Adam
+* @lyxm58290 - Maeko
 
 ## References
 https://www.kaggle.com/datasets/erdemtaha/cancer-data/data
