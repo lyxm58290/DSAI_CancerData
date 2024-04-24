@@ -9,7 +9,7 @@ This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which
 4. [Random Forest Tree](https://github.com/lyxm58290/DSAI_CancerData/blob/95cfccf8244e26cf87aa3e0e6d507dcbf342e01a/Notebooks/RandomForest.ipynb)
 
 ## Problem Definition
-* Are we able to utilise the characteristics of a cancer cell to be able to predict the nature of the tumour: Benign or Malignant?
+* Are we able to utilise the traits and characteristics of a cancer cell to predict the nature of the tumour: Benign or Malignant?
 * Which model would be the best to predict?
 
 ## Models Used
@@ -30,7 +30,7 @@ This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which
 
 ## Contributors
 * @aanya(Aanya): editing and markdown of codes + designing slides.
-* @adamsohjunior(Adam): data-cleaning + EDA + develops the machine learning models.
+* @adamsohjunior(Adam): data-cleaning + EDA + develops machine learning models.
 * @lyxm58290(Maeko): assist in developing machine learning models + preparation of GitHub + script and video editing.
 
 ## References
