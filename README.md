@@ -6,7 +6,7 @@ This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which
 1. [Data Extraction](https://github.com/lyxm58290/DSAI_CancerData/blob/main/Notebooks/DataExtraction.ipynb)
 2. [Data Visualisation](https://github.com/lyxm58290/DSAI_CancerData/blob/main/Notebooks/DataVisualization.ipynb)
 3. [Data Splitting/Classification](https://github.com/lyxm58290/DSAI_CancerData/blob/main/Notebooks/DataSplit_Class.ipynb)
-4. [Random Forest Tree](https://github.com/lyxm58290/DSAI_CancerData/blob/95cfccf8244e26cf87aa3e0e6d507dcbf342e01a/Notebooks/RandomForest.ipynb)
+4. [Random Forest Tree](https://github.com/lyxm58290/DSAI_CancerData/blob/main/Notebooks/RandomForest.ipynb)
 
 ## Problem Definition
 * Are we able to utilise the traits and characteristics of a cancer cell to predict the nature of the tumour: Benign or Malignant?
