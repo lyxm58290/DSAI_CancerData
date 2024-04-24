@@ -1,4 +1,4 @@
-# DSAI_CancerData
+# DSAI_CancerDataProject
 DSAI FCSH (Group 5)
 
 ## About
