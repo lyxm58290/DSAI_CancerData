@@ -18,7 +18,7 @@ This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which
 * Random Forest Classifier (with Cross-Validation)
 
 ## Conclusion
-* Concavity, area and concave_points are good variables to predict whether a tumour is Benign(Good) or Malignant(Bad).
+* Concavity, area and concave_points are good variables to predict whether a tumour is Benign (Good) or Malignant (Bad).
 * Our findings underscore the importance of ongoing research and collaboration in leveraging data-driven approaches to combat this complex and multifaceted disease.
 * Our model can serve as a valuable tool for initial screening or immediate assessment of tumour malignancy. 
 
