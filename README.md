@@ -29,9 +29,9 @@ This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which
 * Collaborating on GitHub
 
 ## Contributors
-* @aanya(Aanya): editing and markdown of codes + designing slides.
-* @adamsohjunior(Adam): data-cleaning + EDA + develops machine learning models.
-* @lyxm58290(Maeko): assist in developing machine learning models + preparation of GitHub + script and video editing.
+* @aanya(Aanya): Editing and markdown of codes + Designing slides.
+* @adamsohjunior(Adam): Data-cleaning + EDA + Develop machine learning models.
+* @lyxm58290(Maeko): Assist in developing machine learning models + Preparation of GitHub + Script and Video Editing.
 
 ## References
 https://www.kaggle.com/datasets/erdemtaha/cancer-data/data
