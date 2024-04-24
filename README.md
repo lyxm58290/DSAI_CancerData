@@ -2,7 +2,7 @@
 DSAI FCSH (Group 5)
 
 ## About
-This is a Mini-Project for SC1015 (DSAI) which focuses on cancer cells. For detailed walkthrough, please view the source code in order.
+This is a Mini-Project for SC1015 (Data Science & Artificial Intelligence) which focuses on cancer cells. For detailed walkthrough, please view the source code in order:
 1. [Data Extraction](https://github.com/lyxm58290/DSAI_CancerData/blob/95cfccf8244e26cf87aa3e0e6d507dcbf342e01a/Notebooks/DataExtraction.ipynb)
 2. [Data Visualisation](https://github.com/lyxm58290/DSAI_CancerData/blob/95cfccf8244e26cf87aa3e0e6d507dcbf342e01a/Notebooks/DataVisualization.ipynb)
 3. [Data Splitting/Classification](https://github.com/lyxm58290/DSAI_CancerData/blob/95cfccf8244e26cf87aa3e0e6d507dcbf342e01a/Notebooks/DataSplit_Class.ipynb)
