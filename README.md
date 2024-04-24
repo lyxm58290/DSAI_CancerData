@@ -27,7 +27,7 @@ This is a Mini-Project for SC1015 (DSAI) which focuses on cancer cells. For deta
 
 ## Contributors
 * @aanya - Aanya
-* Adam
+* @adamsohjunior - Adam
 * @lyxm58290 - Maeko
 
 ## References
