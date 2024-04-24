@@ -23,13 +23,14 @@ This is a Mini-Project for SC1015 (DSAI) which focuses on cancer cells. For deta
 
 ## What did we learn from this project
 * Teamwork makes the dream work
-* The use of Random Forest Classifier and Cross Validation Method
-* Collaborating on Github
+* The use of a Random Forest Classifier (RFC)
+* Enhance RFC with the Cross-Validation Method
+* Collaborating on GitHub
 
 ## Contributors
-* @aanya - Aanya
-* @adamsohjunior - Adam
-* @lyxm58290 - Maeko
+* @aanya(Aanya): editing and markdown of codes + designing slides.
+* @adamsohjunior(Adam): data-cleaning + EDA + develops the machine learning models.
+* @lyxm58290(Maeko): assist in developing machine learning models + preparation of GitHub + script and video editing.
 
 ## References
 https://www.kaggle.com/datasets/erdemtaha/cancer-data/data
