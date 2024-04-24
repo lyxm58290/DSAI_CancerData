@@ -10,19 +10,20 @@ This is a Mini-Project for SC1015 (DSAI) which focuses on cancer cells. For deta
 
 ## Problem Definition
 * Are we able to predict whether the characteristic of a cancer cell will be able to predict a malignant or benign tumor?
-* Which model would be best to predict it?
+* Which model would be the best to predict it?
 
 ## Models Used
-* Classification
-* Random Forest
+* Decision Tree Classfier
+* Random Forest Classifier (with Cross-Validation)
 
 ## Conclusion
-* Concavity, area and concave points are good variables to predict whether a tumour is Benign or Malignant.
+* Concavity, area and concave points are good variables to predict whether a tumour is Benign(Good) or Malignant(Bad).
 * Our findings underscore the importance of ongoing research and collaboration in leveraging data-driven approaches to combat this complex and multifaceted disease.
+* Our model can serve as a valuable tool for initial screening or immediate assessment of tumor malignancy. 
 
 ## What did we learn from this project
 * Teamwork makes the dream work
-* The use of Random Forest Classifier
+* The use of Random Forest Classifier and Cross Validation Method
 * Collaborating on Github
 
 ## Contributors
